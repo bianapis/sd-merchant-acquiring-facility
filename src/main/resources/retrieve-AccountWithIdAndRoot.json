@@ -1,0 +1,10 @@
+{
+  "merchantAcquiringFacilityAccountReference" : "MAFR9399",
+  "productInstanceReference" : "LPIR2030",
+  "merchantAcquiringAccountPostingPurpose" : "Fees",
+  "merchantAcquiringAccountPostingValueDate" : "09-07-2018",
+  "merchantAcquiringAccountAccessReference" : "MAAR3398",
+  "merchantAcquiringAccountPostingResult" : "Success",
+  "merchantAcquiringAccountAccessRecord" : {},
+  "merchantAcquiringAccountPostingAmount" : "Credit"
+}

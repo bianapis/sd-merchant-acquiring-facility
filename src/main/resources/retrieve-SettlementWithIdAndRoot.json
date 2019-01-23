@@ -1,0 +1,11 @@
+{
+  "merchantAcquiringFacilityAccountReference" : "MAFR9399",
+  "productInstanceReference" : "LPIR2030",
+  "participantPaymentTransaction" : "Details",
+  "participantAcquirerBankSettlementAccountStatement" : "Statement",
+  "participantIssuerBankReference" : "PIBR3218",
+  "merchantAcquiringSettlementTaskRecord" : {},
+  "cardFinancialSettlementServicePaymentAdviceRecord" : {},
+  "participantMerchantAcquirerBankReference" : "PMAB3427",
+  "merchantAcquiringSettlementTaskReference" : "MASR3056"
+}

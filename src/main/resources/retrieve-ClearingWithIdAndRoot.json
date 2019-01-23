@@ -1,0 +1,21 @@
+{
+  "cardTransactionProductInstanceReference" : "CTPI8390",
+  "cardTransactionMerchantReference" : "CTMR3022",
+  "cardTransactionInterchargeFee" : "$5",
+  "cardTransactionIssuingBankReference" : "CTIB3293",
+  "merchantAcquiringClearingTaskReference" : "MACR3198",
+  "cardTransactionType" : "Debit",
+  "cardTransactionMerchantAcquiringBankReference" : "CTMA0393",
+  "cardTransactionLocationReference" : "CTLR4344",
+  "cardTransactionCurrency" : "USD",
+  "productInstanceReference" : "LPIR2030",
+  "cardTransactionAmountType" : "OriginalAmount",
+  "cardTransactionFXConversionCharge" : "$20",
+  "cardTransactionNetworkReference" : "CTNR3030",
+  "cardTransactionProductServiceReference" : "CTSR2244",
+  "cardTransactionDateTime" : "2018-12-07:T09:00:00",
+  "merchantAcquiringClearingTaskRecord" : {},
+  "cardTransactionRecordReference" : "CTRR9292",
+  "cardTransactionAmount" : "$500",
+  "cardTransactionAuthorizationRecord" : {}
+}

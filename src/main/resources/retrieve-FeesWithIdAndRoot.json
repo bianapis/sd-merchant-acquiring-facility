@@ -1,0 +1,9 @@
+{
+  "merchantAcquiringDateTime" : "2018-08-28T09:00:00.000+0000",
+  "productInstanceReference" : "LPIR2030",
+  "merchantAcquiringFeeConfiguration" : "ApplicableFee",
+  "merchantAcquiringFeeReference" : "MAFE9321",
+  "merchantAcquiringFeeProjectionsCommitments" : "Anticipated",
+  "merchantAcquiringFeeType" : "Monthy",
+  "merchantAcquiringFeeCharge" : "$5"
+}

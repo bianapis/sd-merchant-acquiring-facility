@@ -1,0 +1,14 @@
+{
+  "productServiceReference" : "SERE32429",
+  "merchantAcquiringFacilityAccountReference" : "MAFR9399",
+  "productInstanceReference" : "PIRE2030",
+  "taxReference" : "TXRE3030",
+  "merchantAcquiringFacilityLimits" : "SpendLimits",
+  "customerReference" : "CURE3242",
+  "accountCurrency" : "USD",
+  "merchantAcquiringFacilityOperationalTerms" : "Active",
+  "partyReference" : "PARE3002",
+  "merchantAcquiringFacilityStatus" : "Active",
+  "bankBranchLocationReference" : "BBLR4222",
+  "merchantAcquiringFacilityFeeConfiguration" : "PenaltyRates"
+}

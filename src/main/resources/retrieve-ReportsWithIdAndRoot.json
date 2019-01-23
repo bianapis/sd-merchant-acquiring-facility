@@ -1,0 +1,14 @@
+{
+  "statementPeriod" : "2018-07-01 To 2018-07-31",
+  "transactionType" : "Debit",
+  "productInstanceReference" : "LPIR2030",
+  "statementTransactionType" : "Card",
+  "transactionRecordReference" : "TRRE3902",
+  "transactionObligation" : "PurchasedService",
+  "transactionDateTime" : "2018-08-28T09:00:00.000+0000",
+  "statementInstanceReference" : "SIRE9321",
+  "statementType" : "Balance",
+  "transactionCounterparty" : "Payee",
+  "transactionPrincipleAmount" : "$50",
+  "statementInstanceRecord" : {}
+}
